@@ -4,8 +4,8 @@
 I am a student at the University of Toronto pursuing my Bachelor of Science in Statistics and Economics with a Focus in Data Analytics. 
 
 ## Internship Experience 👩‍💻
-- IBM: Strategy Consultant 
 - IBM: Business Analyst
+- IBM: Strategy Consultant 
 - 55Rush: Creative Intern
 
 ## Fun Fact 🐈‍⬛
