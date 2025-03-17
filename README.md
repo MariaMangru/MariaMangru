@@ -1,11 +1,12 @@
-### Hi! My name is Maria Mangru. 
+### Hi! My name is Maria Mangru. I like researching interesting things. Check out some of my recent projects. 
 
 ## Education 📚
-I am a student at the University of Toronto pursuing my Bachelor of Science in Statistics and Economics with a Focus in Data Analytics. 
+At the University of Toronto, I pursued a Bachelor of Science in Statistics and Economics with a Focus in Data Analytics. 
 
-## Internship Experience 👩‍💻
+## Experience 👩‍💻
 - IBM: Business Analyst
-- IBM: Strategy Consultant 
+- IBM: Strategy Consultant
+- UofT: Project Manager
 - 55Rush: Creative Intern
 
 ## Fun Fact 🐈‍⬛
